@@ -1,4 +1,4 @@
-# Chili
+# Chili Hex Grid
 
 A lightweight hexagonal grid library for C#.
 
