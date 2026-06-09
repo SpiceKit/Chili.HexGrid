@@ -4,6 +4,8 @@ A lightweight hexagonal grid library for C#.
 
 Chili provides axial hex coordinates and common grid operations such as neighbor lookup, coordinate rotation, and 2D position conversion.
 
+[日本語はこちら](README.ja.md)
+
 ## Features
 
 * Axial coordinate representation (`HexCoordinates`)
