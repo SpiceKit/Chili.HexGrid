@@ -30,10 +30,10 @@ namespace Chili
 		public int Row => _r;
 		public int S { get { return -_q - _r; } }
 
-		public HexCoordinates(int x, int z)
+		public HexCoordinates(int q, int r)
 		{
-			_q = x;
-			_r = z;
+			_q = q;
+			_r = r;
 		}
 	
 		public override readonly string ToString() => $"({_q}, {_r})";
